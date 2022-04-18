@@ -1,0 +1,24 @@
+C:\Users\Nacho\source\repos\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Luk\OneDrive\Escritorio\proyecto\tp_laboratorio_2\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Luk\OneDrive\Escritorio\proyecto\tp_laboratorio_2\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Luk\OneDrive\Escritorio\proyecto\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Luk\OneDrive\Escritorio\proyecto\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luk\OneDrive\Escritorio\proyecto\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Luk\OneDrive\Escritorio\proyecto\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Luk\OneDrive\Escritorio\probarprueba\prueba\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Luk\OneDrive\Escritorio\probarprueba\prueba\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Luk\OneDrive\Escritorio\probarprueba\prueba\TP1\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Luk\OneDrive\Escritorio\probarprueba\prueba\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luk\OneDrive\Escritorio\probarprueba\prueba\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Luk\OneDrive\Escritorio\probarprueba\prueba\TP1\Entidades\obj\Debug\Entidades.pdb
