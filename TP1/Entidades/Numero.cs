@@ -8,6 +8,7 @@ namespace Entidades
 {
     public class Numero
     {
+
         private double numero;
 
         public Numero()

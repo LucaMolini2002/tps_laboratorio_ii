@@ -27,7 +27,7 @@ namespace Entidades
                     break;
             }
 
-            return retorno;
+            return  retorno;
         }
 
         public static double Operar(Numero num1, Numero num2, string operador)
